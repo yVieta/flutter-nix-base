@@ -1,6 +1,6 @@
-# hello_world
+# Base setup for development with flutter on Nix
 
-A new Flutter project.
+A collection of base setups  
 
 ## Getting Started
 
@@ -32,3 +32,6 @@ nix-shell .
 flutter build apk
 flutter run
 ```
+## TODOs
+- fixing build error of clang
+- Adding more samples
